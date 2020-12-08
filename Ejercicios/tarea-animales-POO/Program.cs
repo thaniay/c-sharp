@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _tarea_animles_POO
+namespace _tarea_animales_POO
 {
     class Program
     {
